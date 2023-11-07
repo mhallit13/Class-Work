@@ -1,5 +1,5 @@
-# CVAH
-Listed above are all the scripts that we have worked on in CVAH. 
+# Class Work
+Listed above are all the scripts that we have worked on in Class. 
 
 I have given examples of two of the files that we give you as a part of class:
 
