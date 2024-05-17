@@ -1,0 +1,19 @@
+Domain,Subnet,Hostname,IP,OS
+vaoc.net,Reporting/C2,dc1,199.188.177.2,Win Server 2012R2
+vaoc.net,Reporting/C2,fsvr1,199.188.177.3,Win Server 2012R2
+vaoc.net,Reporting/C2,ntp,199.188.177.4,Ubuntu 16
+vaoc.net,Reporting/C2,wsvr1,199.188.177.5,Ubuntu 11
+vaoc.net,Reporting/C2,ws1,199.188.177.6,Win10
+vaoc.net,Reporting/C2,ws2,199.188.177.7,Win10
+vaoc.net,Shield,dc2,199.188.166.2,Win Server 2012R2
+vaoc.net,Shield,fsvr4,199.188.166.3,Win Server 2012R2
+vaoc.net,Shield,wsvr2,199.188.166.4,Ubuntu 16
+vaoc.net,Shield,ws3,199.188.166.5,Win10
+vaoc.net,Shield,ws4,199.188.166.6,Win10
+vaoc.net,Shield,ws5,199.188.166.7,Win7
+vaoc.net,Vault,msvr1,199.188.155.2,Ubuntu 16
+vaoc.net,Vault,rca,199.188.155.3,Win Server 2012R2
+vaoc.net,Vault,iis,199.188.155.4,Win Server 2012R2
+vaoc.net,Vault,ws6,199.188.155.5,Win10
+vaoc.net,Vault,ws7,199.188.155.6,Win10
+vaoc.net,Vault,ws8,199.188.155.7,Win10
