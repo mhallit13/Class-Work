@@ -1,4 +1,4 @@
-﻿param ([string[]]$AutoRunKeys)
+param ([string[]]$AutoRunKeys)
 
 ForEach ($Key in Get-Item -Path $AutoRunKeys -ErrorAction SilentlyContinue){
     $Key.GetValueNames() |
